@@ -1,6 +1,6 @@
 # Awesome-Customer-Onboarding-Platform
 
-# Top Customer Onboarding Platform Tools Ecosystem
+## Top Customer Onboarding Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Implementation Projects, Customer Journeys, Time-to-Value, Collaborative Portals, Onboarding Playbooks & Post-Sale Delivery*
 **Last updated: August 2026**
